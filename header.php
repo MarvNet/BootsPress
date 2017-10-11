@@ -29,4 +29,3 @@ wp_head(); ?>
 <button class="hide-menu menu-button">×</button>
 </nav>
 </header>
-<main>
